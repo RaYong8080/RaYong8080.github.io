@@ -1,13 +1,13 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: 微态度
+SEOTitle: 国产化适配 
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
+email: sivan@syuee.com
+description: "记录所有适配信息"
+keyword: "从系统，中间件，应用"
 url: "https://globien.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+baseurl: "https://globien.github.io/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/RaYong8080/RaYong8080.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
